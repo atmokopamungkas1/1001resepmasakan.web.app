@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "1001resepmasakan",	  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
